@@ -13,3 +13,8 @@ mysql에 삽입하는 것을 목표로 진행\
 ex) 서로 다른 두 음원 사이트의 일별 순위에서 약 한달 치의\
 순위 데이터를 추출해 여기서 인기있는 노래의 정보(앨범, 가수 등)을\
 가지고 데이터를 시각화
+
+# 팀원
+1. PM : 김재현, https://github.com/jaekim3220
+2. 팀원1 : 김정훈, https://github.com/jagara101
+3. 팀원2 : 하진석, https://github.com/hajinseok11
